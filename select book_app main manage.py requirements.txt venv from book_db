@@ -1,0 +1,17 @@
+                   List of relations
+ Schema |            Name            | Type  |  Owner  
+--------+----------------------------+-------+---------
+ public | auth_group                 | table | joomart
+ public | auth_group_permissions     | table | joomart
+ public | auth_permission            | table | joomart
+ public | auth_user                  | table | joomart
+ public | auth_user_groups           | table | joomart
+ public | auth_user_user_permissions | table | joomart
+ public | book_app_book              | table | joomart
+ public | book_app_category          | table | joomart
+ public | django_admin_log           | table | joomart
+ public | django_content_type        | table | joomart
+ public | django_migrations          | table | joomart
+ public | django_session             | table | joomart
+(12 rows)
+
